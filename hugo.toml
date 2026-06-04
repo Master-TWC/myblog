@@ -20,8 +20,16 @@ theme = 'hugo-theme-stack'
         readingTime = true
 
     [params.widgets]
-        homepage = ["search", "archives", "categories", "tag-cloud"]
-        page = ["search", "tag-cloud"]
+        homepage = [
+            {type = "search"},
+            {type = "archives"},
+            {type = "categories"},
+            {type = "tag-cloud"}
+        ]
+        page = [
+            {type = "search"},
+            {type = "tag-cloud"}
+        ]
 
     [params.colorScheme]
         toggle = true
