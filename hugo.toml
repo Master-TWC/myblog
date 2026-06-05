@@ -11,6 +11,7 @@ theme = 'hugo-theme-stack'
     [params.sidebar]
         compact = false
         subtitle = "记录一些东西"
+        avatar = "img/avatar.svg"
 
     [params.footer]
         since = 2026
