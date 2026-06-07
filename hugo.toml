@@ -17,7 +17,7 @@ theme = 'hugo-theme-stack'
     [params.sidebar]
         compact = false
         subtitle = "哟，你来啦"
-        avatar = "img/lifang.gif"
+        avatar = "img/maodie.gif"
 
     [params.footer]
         since = 2026
