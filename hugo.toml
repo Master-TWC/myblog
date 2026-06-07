@@ -1,17 +1,23 @@
 baseURL = 'https://master-twc.github.io/myblog/'
 locale = 'zh-cn'
-title = '我的博客'
+title = '谭韦常'
 theme = 'hugo-theme-stack'
 
+[markup]
+    [markup.goldmark.renderer]
+        unsafe = true
+
 [params]
+    favicon = "img/avatar.svg"
+
     mainSections = ["post"]
     dateFormat.published = "2006-01-02"
     dateFormat.lastUpdated = "2006-01-02"
 
     [params.sidebar]
         compact = false
-        subtitle = "记录一些东西"
-        avatar = "img/avatar.svg"
+        subtitle = "哟，你来啦"
+        avatar = "img/lifang.gif"
 
     [params.footer]
         since = 2026

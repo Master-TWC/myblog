@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/谭韦常/Desktop/blog/myblog/**)",
+      "Bash(gh repo *)",
+      "Bash(curl -s https://api.github.com/repos/Master-TWC/myblog)",
+      "Bash(winget install *)",
+      "Bash(gh --version)",
+      "Bash(winget list *)",
+      "Read(//c/Program Files/**)",
+      "Read(//c/Program Files \\(x86\\)/**)",
+      "Bash(cmd.exe /c \"where gh\")",
+      "Bash(cmd.exe /c \"winget install --id GitHub.cli -e --source winget --accept-package-agreements --accept-source-agreements\")"
+    ]
+  }
+}
