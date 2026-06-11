@@ -1,7 +1,7 @@
 ---
 title: "小白教程：安装 Claude Code 并接入 DeepSeek API"
 description: "手把手教你安装 Claude Code 命令行工具，配置 DeepSeek 的 API，零基础也能看懂"
-date: 2026-06-11T18:00:00+08:00
+date: 2026-06-11T16:00:00+08:00
 slug: "claude-code-deepseek-guide"
 tags: ["Claude Code", "DeepSeek", "教程", "AI"]
 categories: ["技术"]
