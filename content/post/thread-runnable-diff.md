@@ -1,7 +1,7 @@
 ---
 title: "继承 Thread 与实现 Runnable 的区别"
 description: "深入对比 Java 中创建线程的两种方式"
-date: 2026-06-2T14:00:00+08:00
+date: 2026-06-02T14:00:00+08:00
 slug: "thread-vs-runnable"
 tags: ["Java", "多线程"]
 categories: ["技术"]

@@ -1,7 +1,7 @@
 ---
 title: "匿名内部类使用场景"
 description: "Java 匿名内部类的常见用法与最佳实践"
-date: 2026-06-6T15:00:00+08:00
+date: 2026-06-06T15:00:00+08:00
 slug: "anonymous-inner-class"
 tags: ["Java", "面向对象"]
 categories: ["技术"]
