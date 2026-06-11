@@ -1,7 +1,7 @@
 ---
 title: "UML 类图详解"
 description: "UML 类图的核心元素与关系表示"
-date: 2026-06-11T16:00:00+08:00
+date: 2026-05-19T16:00:00+08:00
 slug: "uml-class-diagram"
 tags: ["UML", "设计"]
 categories: ["技术"]

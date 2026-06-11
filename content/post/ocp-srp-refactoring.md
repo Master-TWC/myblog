@@ -1,7 +1,7 @@
 ---
 title: "开闭原则与单一职责原则重构实战"
 description: "用两个经典案例理解 OCP 和 SRP 及其重构思路"
-date: 2026-06-11T17:00:00+08:00
+date: 2026-05-1T17:00:00+08:00
 slug: "ocp-srp-refactoring"
 tags: ["Java", "设计原则", "重构"]
 categories: ["技术"]
