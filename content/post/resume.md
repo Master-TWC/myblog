@@ -1,6 +1,6 @@
 ---
 title: "个人简历"
-description: "谭韦常 · 个人简历"
+description: "谭韦常 · 个人简历（持续更新）"
 date: 2026-06-11T16:00:00+08:00
 slug: "resume"
 tags: ["简历"]
